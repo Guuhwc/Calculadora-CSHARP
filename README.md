@@ -1,2 +1,1 @@
-# Calculadora-CSHARP
- Calculadora feita em C#
+# Calculadora - ok
